@@ -6,14 +6,31 @@
 
 - 👨‍💻 All of my projects are available at [https://victtor-777.vercel.app/](https://victtor-777.vercel.app/)
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<hr/>
+
+<h2 align="center">Front-end Skills</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,vite,bootstrap,sass,py,nodejs,nest,prisma,express,firebase,mongodb,mysql,git,github,figma,vscode,notion&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,next,tailwind,bootstrap,sass&perline=" />
 </div>
 
+<h2 align="center">Back-end Skills</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,nodejs,nest,prisma,express,firebase,mongodb,mysql&perline=" />
+</div>
+
+<h2 align="center">Software/Tools/etc</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,notion&perline=" />
+</div>
+
+<hr/>
+
 ## Front-End Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,vite,bootstrap,sass&perline=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,next,tailwind,bootstrap,sass&perline=)](https://skillicons.dev)
 ## Back-End Skills
 [![My Skills](https://skillicons.dev/icons?i=py,nodejs,nest,prisma,express,firebase,mongodb,mysql&perline=)](https://skillicons.dev)
 ## Software/Tools/etc:
@@ -21,10 +38,11 @@
 
 ## Most used
 
-
+<h2 align="center">Most used Languagens</h2>
+<br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victtor-777&show_icons=true&locale=en&layout=compact&theme=dark" alt="victtor-777" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victtor-777&show_icons=true&locale=en&layout=compact&theme=react" alt="victtor-777" />
   </a>
 </div>
 
