@@ -1,6 +1,4 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=victtor-777&label=Profile%20views&color=0e75b6&style=flat" alt="victtor-777" /> </p>
-<h1 align="center">Hi 👋, I'm Victtor</h1>
-<h3 align="center">A Software Engineer from Brazil</h3>
 <h1>Hi 👋, I'm Victtor</h1>
 <h3>A Software Engineer from Brazil</h3>
 
