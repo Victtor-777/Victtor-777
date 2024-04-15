@@ -30,8 +30,6 @@
 </div>
 <hr/>
 
-![Snake animation](https://github.com/Victtor-777/Victtor-777/blob/output/github-contribution-grid-snake.svg)
-
 <h2 align="center">Most used Languagens</h2>
 <br/>
 <div align="center">
