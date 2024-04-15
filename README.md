@@ -30,13 +30,7 @@
 </div>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/victtor-777/victtor-777/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+![Snake animation](https://github.com/Victtor-777/Victtor-777/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">Most used Languagens</h2>
 <br/>
