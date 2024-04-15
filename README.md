@@ -2,9 +2,12 @@
 <h1>Hi 👋, I'm Victtor</h1>
 <h3>A Software Engineer from Brazil</h3>
 
+### About me:
 - 🌱 I’m currently learning **React.js and Node.js**
--  🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...
 - 👨‍💻 All of my projects are available at [https://victtor-777.vercel.app/](https://victtor-777.vercel.app/)
+- 💬 Ask me about ...
+- ⚡ Fun fact: ...
 
 <hr/>
 
@@ -26,6 +29,14 @@
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,notion&perline=" />
 </div>
 <hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/victtor-777/victtor-777/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <h2 align="center">Most used Languagens</h2>
 <br/>
