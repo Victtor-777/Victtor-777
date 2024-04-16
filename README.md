@@ -28,6 +28,15 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,notion&perline=" />
 </div>
+
+<hr/>
+
+<div align="center">
+  <h2>My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/victtor-777/victtor-777/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 <hr/>
 
 <h2 align="center">Most used Languagens</h2>
