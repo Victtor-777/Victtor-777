@@ -3,18 +3,18 @@
 <h3>A Software Engineer from Brazil</h3>
 
 ### About me:
-- 🌱 I’m currently learning **React.js and Node.js**
-- 🔭 I’m currently working on ...
-- 👨‍💻 All of my projects are available at [https://victtor-777.vercel.app/](https://victtor-777.vercel.app/)
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 📝 I’m currently learning **React.js and Node.js**
+- 🔭 I’m currently looking for job
+- 🌌 All of my projects are available at [Portfolio](https://victtor-777.vercel.app/)
+- 💬 Ask me about anything, I'm willing to help with whatever I can
+- ⚡ Fun fact: I like cats and watching anime
 
 <hr/>
 
 <h2 align="center">Front-end Skills</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,next,tailwind,bootstrap,sass&perline=" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,next,tailwind,bootstrap&perline=" />
 </div>
 
 <h2 align="center">Back-end Skills</h2>
