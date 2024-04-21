@@ -26,13 +26,13 @@
 <h2 align="center">Software/Tools/etc</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,notion&perline=" />
+    <img src="https://skillicons.dev/icons?i=github,figma,vscode,notion&perline=" />
 </div>
 
 <hr/>
 
 <div align="center">
-  <h2>My Contributions</h2>
+  <h2 align="center">My Contributions</h2>
   <br>
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victtor-777/victtor-777/output/github-contribution-grid-snake-dark.svg" />
@@ -49,6 +49,14 @@
   </a>
 </div>
 
+<hr/>
+
+## Contact me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victtor-guilherme)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victtor-777.vercel.app/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
   
 <!--
 **Victtor-777/Victtor-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
