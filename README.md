@@ -14,7 +14,7 @@
 <h2 align="center">Front-end Skills</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,next,tailwind,bootstrap&perline=" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,next,tailwind,bootstrap,sass&perline=" />
 </div>
 
 <h2 align="center">Back-end Skills</h2>
