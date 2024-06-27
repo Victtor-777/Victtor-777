@@ -7,7 +7,6 @@
 - 🔭 I’m currently looking for job
 - 🌌 All of my projects are available at [Portfolio](https://victtor-777.vercel.app/)
 - 💬 Ask me about anything, I'm willing to help with whatever I can
-- ⚡ Fun fact: I like cats and watching anime
 
 <hr/>
 
