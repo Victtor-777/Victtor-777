@@ -19,7 +19,7 @@
 <h2 align="center">Back-end Skills</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,prisma,express,firebase,mongodb,mysql&perline=" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,prisma,express,firebase,mongodb,mysql,postgres&perline=" />
 </div>
 
 <h2 align="center">Software/Tools/etc</h2>
