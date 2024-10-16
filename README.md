@@ -3,7 +3,7 @@
 <h3>A Software Engineer from Brazil</h3>
 
 ### About me:
-- 📝 I’m currently learning **React.js & Angular and Node.js**
+- 📝 I’m currently learning **React.js and Node.js**
 - 🔭 I’m currently looking for job
 - 🌌 All of my projects are available at [Portfolio](https://victtor-777.vercel.app/)
 - 💬 Ask me about anything, I'm willing to help with whatever I can
