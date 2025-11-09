@@ -25,7 +25,7 @@
 <h2 align="center">Software/Tools/etc</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,vscode,notion,figma&perline=" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,notion,linux&perline=" />
 </div>
 
 <hr/>
