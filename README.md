@@ -40,13 +40,13 @@
   </picture>
 </div>
 
-<h2 align="center">Most used Languagens</h2>
+<!-- <h2 align="center">Most used Languagens</h2>
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victtor-777&show_icons=true&locale=en&layout=compact&theme=react" alt="victtor-777" />
   </a>
-</div>
+</div> -->
 
 <hr/>
 
