@@ -1,71 +1,48 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=140&section=header&text=Victtor%20Guilherme&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Software%20Engineer&descAlignY=75&descSize=16&descColor=94a3b8"/>
+</div>
+
+<br/>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=victtor-777&label=Profile%20views&color=0e75b6&style=flat" alt="victtor-777" /> </p>
-<h1>Hi 👋, I'm Victtor</h1>
-<h3>A Software Engineer from Brazil</h3>
 
-### About me:
-- 📝 I’m currently developing in **Node.js and React.js**
-- 🔭 I’m currently looking for job
+## About me
+
+Software Engineer with 3+ years of experience, focused on back-end development with TypeScript, Node.js, and NestJS. I build scalable systems, work with microservices and clean architecture, and consistently deliver results that go beyond the technical scope.
+
+- 🏆 **Google Bug Hunters — Hall of Fame (2026):** Responsibly disclosed a critical vulnerability in YouTube's payment system, recognized by Google's VRP among fewer than 2,000 researchers worldwide and one of only 25 in Brazil
+- 💼 Currently working at **Licitar Digital** — one of Brazil's top 3 public procurement platforms
+- 🌎 Open to remote opportunities — full-time or contract
+- 🌱 Currently deepening knowledge in **DSA, System Design, and Software Architecture**
 - 🌌 All of my projects are available at [Portfolio](https://victtor-777.vercel.app/)
-- 💬 Ask me about anything, I'm willing to help with whatever I can
 
-<hr/>
-
-<h2 align="center">Front-end Skills</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,next,tailwind,bootstrap,sass&perline=" />
+
+## Tech Stack
+
+<h4>Front-end</h4>
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,bootstrap,sass,vite" />
 </div>
 
-<h2 align="center">Back-end Skills</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,prisma,redis,docker,express,mongodb,jest,mysql,postgres&perline=" />
+<h4>Back-end</h4>
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,prisma,redis,docker,express,jest,mysql,postgres,kubernetes" />
 </div>
 
-<h2 align="center">Software/Tools/etc</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,vscode,notion,linux&perline=" />
+<h4>Tools</h4>
+<div>
+  <img src="https://skillicons.dev/icons?i=github,vscode,notion,linux,aws" />
 </div>
 
-<hr/>
-
-<div align="center">
-  <h2 align="center">My Contributions</h2>
-  <br>
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victtor-777/victtor-777/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victtor-777/victtor-777/output/github-contribution-grid-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/victtor-777/victtor-777/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<!-- <h2 align="center">Most used Languagens</h2>
 <br/>
-<div align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victtor-777&show_icons=true&locale=en&layout=compact&theme=react" alt="victtor-777" />
+
+## Let's connect
+
+<div>
+  <a href="https://www.linkedin.com/in/victtorguilherme">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div> -->
-
-<hr/>
-
-## Contact me:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victtor-guilherme)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victtor-777.vercel.app/)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
-  
-<!--
-**Victtor-777/Victtor-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://victtor-777.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</div>
