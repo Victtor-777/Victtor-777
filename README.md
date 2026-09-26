@@ -39,7 +39,7 @@ Software Engineer with 3+ years of experience, focused on back-end development w
 ## Let's connect
 
 <div>
-  <a href="https://www.linkedin.com/in/victtorguilherme">
+  <a href="https://www.linkedin.com/in/victtor-guilherme">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://victtor-777.vercel.app/">
